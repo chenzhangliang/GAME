@@ -83,7 +83,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:375px;
+  width:335px;
   height:531px;
   background:inherit;
   background-color:rgba(37, 171, 60, 1);
@@ -95,16 +95,16 @@
 }
 #u3 {
   position:absolute;
-  left:-5px;
+  left:0px;
   top:850px;
-  width:375px;
+  width:335px;
   height:531px;
 }
 #u4 {
   position:absolute;
   left:2px;
   top:258px;
-  width:371px;
+  width:331px;
   visibility:hidden;
   word-wrap:break-word;
 }
